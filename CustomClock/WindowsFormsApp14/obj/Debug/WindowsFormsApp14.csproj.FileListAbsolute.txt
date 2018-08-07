@@ -1,0 +1,54 @@
+C:\Users\Pavel\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+C:\Users\Pavel\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+C:\Users\Pavel\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+C:\Users\Pavel\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+C:\Users\Pavel\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+C:\Users\Pavel\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.Cache
+C:\Users\Pavel\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+C:\Users\Pavel\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+C:\Users\Pavel\source\repos\Clock\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+C:\Users\Pavel\source\repos\Clock\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+C:\Users\Pavel\source\repos\Clock\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+C:\Users\Pavel\source\repos\Clock\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\source\repos\Clock\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+C:\Users\Pavel\source\repos\Clock\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+C:\Users\Pavel\source\repos\Clock\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.Cache
+C:\Users\Pavel\source\repos\Clock\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\Clock\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+C:\Users\Pavel\source\repos\Clock\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+C:\Users\Pavel\source\repos\Clock2\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+C:\Users\Pavel\source\repos\Clock2\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+C:\Users\Pavel\source\repos\Clock2\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+C:\Users\Pavel\source\repos\Clock2\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\source\repos\Clock2\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+C:\Users\Pavel\source\repos\Clock2\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+C:\Users\Pavel\source\repos\Clock2\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.Cache
+C:\Users\Pavel\source\repos\Clock2\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\Clock2\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+C:\Users\Pavel\source\repos\Clock2\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+C:\Users\Pavel\source\repos\Clock2\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.ClockBase.resources
+C:\Users\Pavel\source\repos\Clock2\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.ClockHand.resources
+C:\Users\Pavel\source\repos\Clock2 - Copy\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\source\repos\Clock2 - Copy\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.ClockBase.resources
+C:\Users\Pavel\source\repos\Clock2 - Copy\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+C:\Users\Pavel\source\repos\Clock2 - Copy\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+C:\Users\Pavel\source\repos\Clock2 - Copy\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.Cache
+C:\Users\Pavel\source\repos\Clock2 - Copy\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\Clock2 - Copy\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+C:\Users\Pavel\source\repos\Clock2 - Copy\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+C:\Users\Pavel\source\repos\Clock2 - Copy\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+C:\Users\Pavel\source\repos\Clock2 - Copy\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+C:\Users\Pavel\source\repos\Clock2 - Copy\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+C:\Users\Pavel\source\repos\CustomClock\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+C:\Users\Pavel\source\repos\CustomClock\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+C:\Users\Pavel\source\repos\CustomClock\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+C:\Users\Pavel\source\repos\CustomClock\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\source\repos\CustomClock\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.ClockBase.resources
+C:\Users\Pavel\source\repos\CustomClock\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+C:\Users\Pavel\source\repos\CustomClock\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+C:\Users\Pavel\source\repos\CustomClock\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.Cache
+C:\Users\Pavel\source\repos\CustomClock\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\CustomClock\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+C:\Users\Pavel\source\repos\CustomClock\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
